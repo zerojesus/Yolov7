@@ -8,7 +8,7 @@ On video:
 
     python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source test.mp4
 
-![image](figure/video_inference.png)
+<img src="./figure/video_inference.png" title="" alt=""></img>
 
 On image:
 
