@@ -6,7 +6,9 @@ The codes are mainly based on yolov7.
 
 On video:
 
-    python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source yourvideo.mp4
+    python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source test.mp4
+
+![image](figure/video_inference.png)
 
 On image:
 
